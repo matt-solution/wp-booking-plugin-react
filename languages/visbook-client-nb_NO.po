@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VisBook Client\n"
+"POT-Creation-Date: 2024-03-20 14:58+0100\n"
+"PO-Revision-Date: 2024-03-20 15:03+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: visbook-client.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+
+#: admin/settings-page.php:41
+msgid "VisBook Settings"
+msgstr "Visbook-innstillinger"
+
+#: admin/settings-page.php:55
+msgid "Select Languages"
+msgstr "Velg språk"
+
+#: admin/settings-page.php:76
+msgid "Sync Products with Default Language"
+msgstr "Synkroniser produkter med standard-språk (Engelsk)"
+
+#: admin/settings-page.php:82
+msgid "Sync Other Languages"
+msgstr "Synkroniser andre språk"
+
+#: admin/settings-page.php:88
+msgid "Sync Images"
+msgstr "Synkroniser bilder"
+
+#: admin/settings-page.php:94
+msgid "Clean Up"
+msgstr "Rydd opp"
+
+#: admin/settings-page.php:97
+msgid "Log Messages"
+msgstr "Logg-meldinger"
+
+#: admin/settings-page.php:102
+msgid "Clear Debug Log"
+msgstr "Rensk logg"
+
+#: admin/settings-page.php:110
+msgid "Processing.."
+msgstr "Behandler"
+
+#: includes/register-cpt.php:6
+msgctxt "VisBook products"
+msgid "Products"
+msgstr "Produkter"
+
+#: includes/register-cpt.php:7
+msgctxt "VisBook products"
+msgid "Product"
+msgstr "Produkt"
+
+#: includes/register-cpt.php:8
+msgid "Products"
+msgstr "Produkter"
+
+#: includes/register-cpt.php:9 includes/register-cpt.php:35
+msgid "Product"
+msgstr "Produkt"
+
+#: includes/register-cpt.php:10
+msgid "Product Archives"
+msgstr "Produkt arkiver"
+
+#: includes/register-cpt.php:11
+msgid "Product Attributes"
+msgstr "Produktattributer"
+
+#: includes/register-cpt.php:12
+msgid "Parent Product:"
+msgstr "Forelder produkt:"
+
+#: includes/register-cpt.php:13
+msgid "All Products"
+msgstr "Alle produkter"
+
+#: includes/register-cpt.php:14
+msgid "Add New Product"
+msgstr "Legg til produkt"
+
+#: includes/register-cpt.php:15
+msgid "Add New"
+msgstr "Legg til"
+
+#: includes/register-cpt.php:16
+msgid "New Product"
+msgstr "Nytt produkt"
+
+#: includes/register-cpt.php:17
+msgid "Edit Product"
+msgstr "Rediger produkt"
+
+#: includes/register-cpt.php:18
+msgid "Update Product"
+msgstr "Oppdater produkt"
+
+#: includes/register-cpt.php:19
+msgid "View Product"
+msgstr "Vis produkt"
+
+#: includes/register-cpt.php:20
+msgid "View Products"
+msgstr "Vis produkter"
+
+#: includes/register-cpt.php:21
+msgid "Search Product"
+msgstr "Søk i produkter"
+
+#: includes/register-cpt.php:22
+msgid "Not found"
+msgstr "Ikke funnet"
+
+#: includes/register-cpt.php:23
+msgid "Not found in Trash"
+msgstr "Ikke funnet i søppelkasse"
+
+#: includes/register-cpt.php:24
+msgid "Featured Image"
+msgstr "Fremhevet bilde"
+
+#: includes/register-cpt.php:25
+msgid "Set featured image"
+msgstr "Angi fremhevet bilde"
+
+#: includes/register-cpt.php:26
+msgid "Remove featured image"
+msgstr "Fjern fremhevet bilde"
+
+#: includes/register-cpt.php:27
+msgid "Use as featured image"
+msgstr "Bruk som fremhevet bilde"
+
+#: includes/register-cpt.php:28
+msgid "Insert into Product"
+msgstr "Legg inn i produkt"
+
+#: includes/register-cpt.php:29
+msgid "Uploaded to this Product"
+msgstr "Opplasted til produkt"
+
+#: includes/register-cpt.php:30
+msgid "Products list"
+msgstr "Produktliste"
+
+#: includes/register-cpt.php:31
+msgid "Products list navigation"
+msgstr "Produktliste navigasjon"
+
+#: includes/register-cpt.php:32
+msgid "Filter Products list"
+msgstr "Filtrer produktliste"
+
+#: includes/register-cpt.php:36
+msgid "Products from VisBook-system"
+msgstr "Produkter fra VisBook"
+
+#. Plugin Name of the plugin/theme
+msgid "VisBook Client"
+msgstr "VisBook-klient"
+
+#. Description of the plugin/theme
+msgid "Fetches and displays data from the VisBook API."
+msgstr "Henter og viser data fra VisBook-API"
+
+#. Author of the plugin/theme
+msgid "Konsulenten Reidar Nygård"
+msgstr "Konsulenten Reidar Nygård"
+
+#. Author URI of the plugin/theme
+msgid "https://www.konsulenten.no"
+msgstr ""

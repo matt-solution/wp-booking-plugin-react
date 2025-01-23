@@ -1,0 +1,92 @@
+{
+    "title": "High quality motorhomes for rent since 2003",
+    "search": "Search",
+    "readmore": "Read More",
+    "home": {
+        "overview": {
+            "title1": "Check out the brand new Challenger X250",
+            "description1": "The agility of a van and the comfort of a camper van. The best of both worlds. Previously, you had to choose between a vanand a camper van, but with the X-series, Challenger has created a middle category, combining the best of both worlds.",
+            "title2": "Check out the brand new Challenger X250",
+            "description2": "The agility of a van and the comfort of a camper van. The best of both worlds. Previously, you had to choose between a vanand a camper van, but with the X-series, Challenger has created a middle category, combining the best of both worlds."
+        },
+        "details": {
+            "title": "Your next adventure is waiting at the pickup point",
+            "pickup": "Our pickup locations"
+        },
+        "tips": {
+            "title": "motorhome.no",
+            "vacations": "Get the most out of your motorhome vacations",
+            "information": "Information and tips",
+            "silence": "Wake up and listen to the sound of silence"
+        }
+    },
+    "result": {
+        "title": "These motorhomes awaits your next adventure"
+    },
+    "order": {
+        "booking": {
+            "title": "Great, now you can complete your booking",
+            "total_price": "Total price(NOK)",
+            "persons": "Persons:",
+            "price_per_night": "Price per night:",
+            "night": "Night:",
+            "addtionals": "Addtionals:",
+            "pickup_point": "Pickup Point:",
+            "model": "Model:",
+            "check_in_out": "Check-in and check out",
+            "yes": "Yes, I have read the conditions.",
+            "read_here": "Read our conditions here",
+            "complete_order": "Complete order",
+            "summary": "Summary",
+            "summary_detail": "it's not to late to add additional extras",
+            "required": "Number of persons(required)",
+            "included": "Included services",
+            "price": "Price",
+            "total": "Total",
+            "additional": "Need any additional extras?",
+            "lets_go": "Great choice! Let's go!",
+            "book_journey": "Book your journey",
+            "confirm_order": "Confirm order",
+            "book": "Book"
+        },
+        "back_to_search": "Back to search",
+        "terms_and_conditions": "Terms and conditions",
+        "zip_code": "Zip code",
+        "city": "City",
+        "address": "Address",
+        "agree_with": "Agree with",
+        "company": "Company",
+        "complete_booking": "Complete booking",
+        "first_name": "First name",
+        "last_name": "Last name"
+    },
+    "pickup": {
+        "label": {
+            "title": "Select pickup location"
+        }
+    },
+    "motorhome": {
+        "specs": {
+            "pretext": "Practical and spacious",
+            "seats": "seats",
+            "beds": "beds",
+            "class": "class",
+            "from": "From",
+            "next": "Next"
+        },
+        "results": {
+            "check": "Check availability",
+            "about": "About this model",
+            "book": "Book",
+            "sorry": "Sorry, not available",
+            "another": "Please choose another model or select a different period or pickup-point."
+        }
+    },
+    "noavailable": {
+        "noavail": "This product is not available in the time you have selected"
+    },
+    "validation": {
+        "required": "Please fill out this field",
+        "agree_terms": "Please accept the terms to continue"
+    }
+}

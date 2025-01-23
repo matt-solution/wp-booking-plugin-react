@@ -1,0 +1,124 @@
+{
+    "key": "group_5e85d45ea4385",
+    "title": "Avdeling",
+    "fields": [
+        {
+            "key": "field_5e85d4cb8ecc6",
+            "label": "Sted",
+            "name": "location",
+            "aria-label": "",
+            "type": "google_map",
+            "instructions": "Location on a Google Map",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "center_lat": "62.37",
+            "center_lng": "8.9",
+            "zoom": 6,
+            "height": 300
+        },
+        {
+            "key": "field_5eac148ce2e3c",
+            "label": "Åpningstider",
+            "name": "working_days",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "text",
+            "media_upload": 1,
+            "toolbar": "full",
+            "delay": 0
+        },
+        {
+            "key": "field_5ef12a748669c",
+            "label": "Finansiering",
+            "name": "finansiering",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Kode for finansieringskalkulator",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5ef363d417f25",
+            "label": "Facebook-feed",
+            "name": "facebook-feed",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5ef363f117f26",
+            "label": "Skjema",
+            "name": "skjema-id",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "taxonomy",
+                "operator": "==",
+                "value": "location"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": false,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1712913324
+}

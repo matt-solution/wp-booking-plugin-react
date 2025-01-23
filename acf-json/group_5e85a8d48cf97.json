@@ -1,0 +1,49 @@
+{
+    "key": "group_5e85a8d48cf97",
+    "title": "Ekstern link",
+    "fields": [
+        {
+            "key": "field_5e85a8dea097a",
+            "label": "Ekstern link",
+            "name": "external_link",
+            "aria-label": "",
+            "type": "url",
+            "instructions": "Ekstern URL på innlegg i kategori Eksterne linker",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#",
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": [
+        "discussion",
+        "comments",
+        "format",
+        "page_attributes",
+        "tags",
+        "send-trackbacks"
+    ],
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1712831903
+}

@@ -1,0 +1,172 @@
+{
+    "key": "group_5ecf6523bb430",
+    "title": "Seksjon for innlegg (valgfri)",
+    "fields": [
+        {
+            "key": "field_5edfaae0410c9",
+            "label": "Seksjonstittel",
+            "name": "seksjonstittel",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Seksjonens overskrift",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5edfa79b3e06a",
+            "label": "Velg innlegg",
+            "name": "velg_innlegg",
+            "aria-label": "",
+            "type": "repeater",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "collapsed": "",
+            "min": 0,
+            "max": 0,
+            "layout": "table",
+            "button_label": "Legg til rad",
+            "rows_per_page": 20,
+            "sub_fields": [
+                {
+                    "key": "field_5edfa8115dc29",
+                    "label": "Velg innlegg",
+                    "name": "pick_posts",
+                    "aria-label": "",
+                    "type": "post_object",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "post_type": [
+                        "post"
+                    ],
+                    "taxonomy": "",
+                    "allow_null": 0,
+                    "multiple": 0,
+                    "return_format": "object",
+                    "ui": 1,
+                    "bidirectional_target": [],
+                    "parent_repeater": "field_5edfa79b3e06a"
+                },
+                {
+                    "key": "field_5edfa7da5dc28",
+                    "label": "Tekst på knapp",
+                    "name": "button_text",
+                    "aria-label": "",
+                    "type": "text",
+                    "instructions": "Velg teksten som skal stå på knapp under innlegget.",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "default_value": "",
+                    "placeholder": "",
+                    "prepend": "",
+                    "append": "",
+                    "maxlength": "",
+                    "parent_repeater": "field_5edfa79b3e06a"
+                }
+            ]
+        },
+        {
+            "key": "field_62aad9a3b0d2d",
+            "label": "Kategori knappen skal peke mot",
+            "name": "kategorilink",
+            "aria-label": "",
+            "type": "taxonomy",
+            "instructions": "Velg egen kategori som knappen under innleggene skal peke mot",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "taxonomy": "category",
+            "field_type": "select",
+            "allow_null": 0,
+            "add_term": 0,
+            "save_terms": 0,
+            "load_terms": 0,
+            "return_format": "id",
+            "multiple": 0,
+            "bidirectional_target": []
+        },
+        {
+            "key": "field_62aada92b0d2f",
+            "label": "Tekst på knappen",
+            "name": "knappetekst",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Tekst på knappen. F.eks. \"Se alle 2022-modeller\"",
+            "required": 0,
+            "conditional_logic": [
+                [
+                    {
+                        "field": "field_62aad9a3b0d2d",
+                        "operator": "!=empty"
+                    }
+                ]
+            ],
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "post"
+            }
+        ],
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "page"
+            }
+        ]
+    ],
+    "menu_order": 4,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1712831947
+}

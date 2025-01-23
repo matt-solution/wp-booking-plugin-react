@@ -1,0 +1,790 @@
+:root .form-select::after {
+  width: 20px;
+  height: 20px;
+}
+
+h4.motorhome-description {
+  font-size: 1.2rem;
+  font-weight: 300;
+  line-height: 1.5rem;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+h2.title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+h2.unit, h2.point {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #AE3836;
+}
+h4.motorhome-label-g {
+  margin-top: 30px;
+}
+.motorhome-red {
+  color: #AE3836;
+}
+h3.feature-text {
+  font-size: 2rem !important;
+}
+p.motorhome-description-g {
+  font-size: 1.2rem;
+}
+p.status {
+  font-size: 0.8rem;
+}
+.motorhome-button {
+  height: 53px;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 24.42px;
+  background-color: #AE3836;
+  border-radius: 6px;
+  color: white;
+  border: 0;
+}
+.motorhome-search-button {
+  width: 196px;
+}
+.motorhome-check-available-button {
+  width: auto;
+  
+}
+.book-button {
+  color: white;
+  background-color: #ae3836;
+  border-radius: 0.6rem;
+  border: 0;
+  font-weight: 700;
+  font-size: 1.3rem;
+}
+.motorhome-order-confirm-button {
+  width: 196px;
+  height: 45px !important;
+}
+.motorhome-desktop-order-button {
+  width: auto;
+  padding: 0 3rem;
+  
+}
+.motorhome-pickup-location-button {
+  width: 234px;
+  background-color: white !important;
+  color: #AE3836 !important;
+}
+.motorhome-order-button {
+  background-color: #707070;
+}
+.motorhome-properties {
+  border-color: #000 !important;
+  border-width: 2px !important;
+  width: 66px;
+  max-width: 100%;
+  height: 66px;
+}
+img.icon {
+  shape-rendering: auto;
+}
+ 
+.motorhomes-container {
+  padding: 0;
+  background-color: #f2f2f2;
+  
+.background-logo {
+  width: 100%;
+  height: auto;
+}
+}
+.motorhome-pickups {
+  .main-logo-text {
+    left: 50% !important;
+  }
+  .main-logo-text .img-fluid {
+    width: 85%;
+  }
+}
+.checkout-selected-email {
+  height: 50px;
+  /* color: #000; */
+}
+.checkout-unselected-email {
+  height: 50px;
+  border: 1px solid #CACACA;
+  color: #CACACA;
+}
+.checkout-selected-emailbox{
+  height: 50px !important;
+  width: 100% !important;
+  border: 1px solid #CACACA;
+}
+.react-tel-input .form-control{
+  height: 50px !important;
+  width: 100% !important;
+}
+
+.email-verified{
+  background-color: #AE3836;
+  color: #F2F2F2;
+}
+
+.email-unverified{
+  background-color: #707070;
+  cursor: inherit !important;
+}
+
+.checkout-verification-codebox{
+  height: 50px !important;
+  width: 100% !important;
+  border: 3px solid #AE3836;
+  text-align: center;
+}
+
+.verification-code input:focus{
+  border-color: #AE3836;
+  outline: none;
+}
+
+.search-box {
+  width: 30rem;
+  
+  background-color: white;
+  text-align: center;
+  left: 50%;
+  border-radius: 1.4rem;
+  z-index: 999;
+  .pickup-point {
+    margin-top: 4rem;
+    
+  }
+  .date-pickers {
+    background-color: #f2f2f2;
+    margin-top: 1.5rem;
+  }
+  @media (min-width: 768px) {
+    left: 26% !important;
+  }
+}
+.pickup-picker {
+  margin: 0 1rem;
+  input {
+    font-size: 1rem;
+  }
+  @media (min-width: 481px) {
+    left: 26% !important;
+    margin: 0 3rem;
+  }
+}
+.motorhomes .motorhome {
+  border: 1px;
+  border-style: solid;
+  border-radius: 2rem;
+  border-color: #707070;
+  background-color: white;
+}
+.motorhome .hidden-box {
+  background-color: #f2f2f2;
+  padding-top: 10rem;
+}
+h3.motorhome-about-model {
+  font-size: 1.2rem;
+}
+p.about {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+.module-youtube {
+  height: auto;
+}
+.motorhome-carousel {
+  min-height: 175px;
+ .motorhome-carousel .carousel-control-next-icon {
+  width: 1.2rem;
+  height: 2rem;
+}
+.motorhomes .motorhome .motorhome-carousel .carousel-control-prev-icon {
+  width: 1.2rem;
+  height: 2rem;
+}
+}
+.motorhome-label-g {
+    font-weight: 400;
+}
+.motorhomes .header {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #707070;
+  border-radius: 0.6rem;
+  color: #ae3836;
+  z-index: 10;
+  background-color: white;
+  font-weight: 700;
+}
+.motorhome-tips .motorhome-tip-logo {
+  width: 5.8rem;
+  height: 5.4rem;
+}
+.motorhome-tips .logo span {
+  font-size: 2.9rem;
+}
+  
+  
+  .motorhomes-container .motorhome-overviews .box {
+    background-color: white;
+    height: 90rem;
+    position: relative;
+  }
+  
+  .motorhomes-container .motorhome-overviews .readmore button {
+    border: 0;
+    border-radius: 2.7rem;
+    color: white;
+    background-color: #5fafba;
+    position: absolute;
+    bottom: 0;
+    font-weight: 700;
+    margin-bottom: 10rem;
+  }
+.pickup-point {
+  height: 59px;
+  padding-left: 2rem !important;
+}
+.date-pickers {
+  position: relative;
+  border: 1px;
+  border-color: #707070;
+  
+  font-size: 1.6rem;
+  
+  .rdrMonth {
+    padding: 0;
+    width: 100% !important;
+  }
+    .rdrDateRangePickerWrapper {
+    background: white;
+  }
+}
+.date-pickers .react-datepicker-wrapper input {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #f2f2f2;
+  border: 0;
+  outline: 0;
+}
+.myDatePicker {
+  text-align: center;
+  width: 100%;
+  
+  
+}
+.react-datepicker-popper {
+  z-index: 9999 !important;
+}
+.calendar-icon {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  transform: translateY(-50%);
+}
+.m-carousels-details {
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.react-datepicker-wrapper {
+  width: 100% !important;
+}
+.custom-date-cell-available {
+  position: absolute;
+  color: white;
+  background-color: #b670f4;
+  width: 100%;
+}
+.custom-date-cell-unavailable {
+  position: absolute;
+  color: black;
+  pointer-events: none;
+  cursor: not-allowed;
+  opacity: 0.3;
+}
+.rdrDay, .rdrInRange {
+  color: transparent !important;
+}
+.rdrDateRangePickerWrapper {
+  width: 100%;
+}
+.custom-date-cell-selected {
+  width: 100%;
+  background-color: #FF8C00;
+  color: white !important;
+}
+.custom-date-range .rdrDateRangeWrapper {
+  width: 100%;
+  height: 80%;
+  z-index: 999 !important;
+}
+.custom-date-range .rdrDateDisplayWrapper {
+  height: 0;
+  visibility: hidden;
+}
+.custom-date-range .rdrDefinedRangesWrapper {
+  width: 0;
+  visibility: hidden;
+}
+.no-available-product {
+  margin: 0 8rem;
+  background-color: hsla(39, 95%, 71%, .75);
+}
+.date-pickers .cancel {
+  
+  font-size: 15px;
+  height: auto;
+}
+.plus {
+  cursor: pointer;
+}
+.search-result-container {
+    background-color: #f2f2f2;
+}
+.search-result-container .pickup-picker {
+  height: 10.6rem;
+}
+.pickup-picker .pickup-point {
+  background-color: #f2f2f2;
+}
+.order-container {
+  background-color: #F2F2F2;
+  
+}
+.order-container .order-detail {
+  background-color: #F2F2F2;
+}
+.order-container .box {
+  background-color: white;
+  border: 1px;
+  border-color: #707070;
+  border-style: solid;
+  border-radius: 2rem;
+  margin-top: 1rem;
+}
+.order-container .motorhome-carousel .carousel-control-next-icon {
+  width: 1.2rem;
+  height: 2rem;
+}
+.order-container .motorhome-carousel .carousel-control-prev-icon {
+  width: 1.2rem;
+  height: 2rem;
+}
+.order-container .carousel-control-prev-icon, .carousel-control-next-icon {
+  position: absolute;
+  top: 50%;
+  transform: TranslateY(-50%);
+}
+.order-container .carousel-control-prev-icon {
+  right: auto;
+  left: -2rem;
+}
+.order-container .carousel-control-next-icon {
+  left: auto;
+  right: -2rem;
+}
+.order-detail .order-button {
+  border: 0;
+  color: white;
+  background-color: #707070;
+  border-radius: 0.6rem;
+  font-size: 2rem;
+  font-weight: 700;
+  width: 23.2rem !important;
+  height: 5.3rem;
+}
+.order-detail .detail-box {
+  background-color: white;
+  border-radius: 2rem;
+}
+.number-persons-confirm {
+  background-color: #707070 !important;
+  color: white;
+}
+.number-persons-complete {
+  background-color: #AE3836;
+  color: white;
+}
+.verification input {
+  height: 50px;
+  width: 80%;
+  font-size: 1.6rem;
+}
+.notes {
+  font-size: 1.6rem !important;
+}
+.order-detail .detail-box .number_of_persons {
+  height: 5.7rem;
+  background-color: #AE3836;
+  color: white;
+  border: 0;
+  border-radius: 0.5rem;
+  width: 100%;
+  outline: 0;
+}
+.order-detail .detail-box .information input {
+  width: 100%;
+  color: #393939;
+  border: 0;
+  outline: 0;
+  border-radius: 0.5rem;
+  background-color: #F2F2F2;
+  height: 3.5rem;
+}
+.order-detail .detail-box select {
+  color: #393939;
+  border: 0;
+  outline: 0;
+  border-radius: 0.5rem;
+  background-color: #F2F2F2;
+  height: 3.5rem;
+}
+.order-detail .detail-box hr {
+  margin: 0.8rem 0;
+}
+.total-price-box {
+  background-color: #F2F2F2;
+}
+.order-detail .detail-box .form-control {
+  border-radius: 2rem;
+  padding: 1rem;
+  font-size: 1.6rem;
+}
+.order-container .ordered {
+  background-color: #F2F2F2;
+}
+.journey-box .title {
+  font-size: 2.2rem;
+  line-height: 6rem;
+  font-weight: 700;
+}
+.journey-box {
+  border-radius: 2rem;
+  border: 1px;
+  border-style: solid;
+  background-color: white;
+  border-color: #707070;
+  margin: 5rem 8rem !important;
+  height: 19rem;
+}
+.journey-box .pickup-point select {
+  background-color: #F2F2F2;
+  height: 4.5rem;
+}
+.order-detail .mobile-order-field {
+  display: none;
+}
+.thanks {
+  padding: 3rem;
+}
+.motorhome-booked-description .addiotion-extras select {
+  width: 35px;
+  height: 25px;
+}
+.order-detail-read-more, .order-detail-read-less {
+  color: #AE3836;
+  border: 0;
+  background-color: white;
+}
+.confirm-code-form {
+  margin: 2rem 3rem;
+}
+.motorhome-booked-description select, input {
+  border: 0;
+  background-color: #F2F2F2;
+}
+.btn-datepicker-calendar {
+  border: none;
+  cursor: pointer;
+}
+.btn-datepicker-arrow {
+  border: none;
+  cursor: pointer;
+}
+.input-text {
+  font-size: 1rem;
+}
+@media (max-width: 768px) and (min-width: 481px) {
+    .motorhome-check-available-button {
+    width: auto;
+  }
+  .carousel-control-prev {
+    right: 23rem !important;
+  }
+  .carousel-control-next {
+    left: 23rem !important;
+  }
+  .motorhomes-container .background-logo {
+    height: 450px !important;
+  }
+  .motorhome .hidden-box {
+    height: auto;
+  }
+  .motorhomes-container .motorhome-pickups .main-logo-text {
+    left: 57% !important;
+  }
+}
+@media (max-width: 992px) and (min-width: 769px) {
+    .motorhomes-container .background-logo {
+    height: 450px !important;
+  }
+  .carousel-control-next {
+    left: 20rem !important;
+  }
+  .carousel-control-prev {
+    right: 20rem !important;
+  }
+  .motorhome-check-available-button {
+    width: auto;
+  }
+  .motorhomes-container .motorhome-pickups .main-logo-text {
+    left: 60% !important;
+  }
+  .motorhome-tips .silence {
+    font-size: 5rem;
+  }
+}
+@media (max-width: 1200px) and (min-width: 993px) {
+    .motorhomes-container .background-logo {
+    height: 450px !important;
+  }
+  .motorhome-check-available-button {
+    width: auto;
+  }
+  .carousel-control-next {
+    left: 23rem !important;
+  }
+  .carousel-control-prev {
+    right: 23rem !important;
+  }
+  .motorhome-tips .silence {
+    font-size: 5rem;
+  }
+}
+@media (max-width: 1400px) and (min-width: 1201px) {
+  //   .motorhome-check-available-button {
+  //   width: auto;
+  // }
+  // .carousel-control-next {
+  //   left: 23rem !important;
+  // }
+  // .carousel-control-prev {
+  //   right: 23rem !important;
+  // }
+  // .motorhome-tips .silence {
+  //   font-size: 5rem;
+  // }
+}
+
+@media (max-width: 1400px) and (min-width: 481px) {
+  .date-pickers {
+    height: 45px !important;
+  }
+  .pickup-point {
+    height: 45px;
+  }
+  .myDatePicker {
+    width: 100%;
+  }
+}
+@media (max-width: 480px) {
+  .search-result-container {
+    padding: 0;
+  }
+  .motorhome-button {
+    font-size: 20px !important;
+  }
+ 
+  .search-result-container .title {
+    display: none !important;
+  }
+  .motorhomes-container .background-logo {
+    height: 694px !important;
+  }
+  .motorhomes-container .motorhome-pickups .search-box {
+    width: 90% !important;
+  }
+  .motorhomes-container .motorhome-pickups .search-box .pickup-point {
+    margin-top: 3rem;
+  }
+  .motorhomes-container .motorhome-pickups .search-box .date-pickers {
+    margin-top: 2rem;
+  }
+  .motorhomes-container .motorhome-pickups .main-logo-text {
+    left: 10% !important;
+    top: 80% !important;
+  }
+  .motorhomes-container .motorhome-pickups .main-logo-text .img-fluid {
+    width: 90%;
+  }
+  .motorhomes .motorhome {
+    margin: 10px !important;
+  }
+  .motorhome-tips .mobile {
+    display: block !important;
+  }
+  .motorhomes .header {
+    font-size: 16px;
+    transform: translate(-50%, -25%) !important;
+    margin: 5px 0;
+  }
+  .motorhomes .mobile {
+    margin-top: 20px;
+  }
+  .motorhome-tips .tip button {
+    margin: 20px 0 100px 0;
+  }
+  .motorhome-tips .skinship-left {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 0;
+    margin: 10px 10px 0 10px !important;
+  }
+  .motorhome-tips .skinship-right {
+    height: 100%;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin: 0 10px 10px 10px !important;
+    width: 95%;
+  }
+  .motorhome-tips .silence-mobile {
+    display: none !important;
+  }
+  .pickup-point {
+    height: 45px !important;
+    
+    padding-left: 2rem !important;
+  }
+  .date-pickers {
+    height: 45px !important;
+    
+  }
+  .myDatePicker {
+    width: 100%;
+  }
+  .react-datepicker__input-container {
+    padding-left: 10px;
+  }
+  .order-container {
+    padding: 0;
+  }
+  .order-container .ordered {
+    margin: 0;
+  }
+  .journey-box {
+    height: 197px !important;
+    margin: 5rem 0 !important;
+    padding-top: 3rem !important;
+  }
+  .order-detail .pickup-picker {
+    display: none !important;
+  }
+  .order-detail .detail-box {
+    padding: 0 !important;
+    
+  }
+  .order-detail .mobile-order-field {
+    display: block;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 50px;
+  }
+  .order-detail .mobile-order-additional-field {
+    display: block;
+    font-size: 22px;
+    font-weight: 700;
+    
+  }
+  .order-container .order-detail {
+    margin: 0 !important;
+    background-color: white;
+  }
+  .order-detail .detail-box hr {
+    margin: 1.8rem 0px;
+  }
+  .order-detail .detail-box .form-control {
+    font-size: 2rem;
+  }
+  .order-detail .detail-box .number_of_persons {
+    margin-top: 30px;
+  }
+  .order-detail .detail-box .information {
+    margin-top: 20px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 20px;
+    padding: 2rem;
+  }
+  .mobile-order-personal-information {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    font-size: 22px;
+    font-weight: 700;
+  }
+  .order-detail .detail-box .included-box {
+    display: none !important;
+  }
+  .order-container .motorhome-description .mobile {
+    display: none !important;
+  }
+  .order-container .box {
+    border: 0;
+  }
+  .order-container .motorhome-property {
+    margin-top: 30px;
+  }
+  .mobile-included-box {
+    border: 1px;
+    border-radius: 20px;
+    border-color: #707070;
+    border-style: solid;
+    margin: 2rem 2rem;
+    
+  }
+  .mobile-included-box .included {
+    font-size: 22px;
+    font-weight: 700;
+  }
+  .mobile-included-box hr {
+    margin: 3rem;
+  }
+  .mobile-included-box .order {
+    padding: 2rem 3rem;
+    background-color: #F2F2F2;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+  }
+  .order-detail .order-button {
+    width: 132px !important;
+  }
+  .thanks {
+    background-color: white;
+    padding: 50px;
+  }
+  .thanks .personal-information {
+    margin-top: 25px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 25px;
+  }
+  .order-container .carousel-control-prev {
+    left: unset !important;
+    right: 29rem !important;
+  }
+  .order-container .carousel-control-next {
+    left: 29rem !important;
+    right: unset !important;
+  }
+  .motorhome-carousel {
+    padding: 15px 0;
+  }
+  .order-container .motorhome-description {
+    padding: 0 30px;
+  }
+}

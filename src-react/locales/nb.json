@@ -1,0 +1,81 @@
+{
+    "title": "Bobiler av høy kvalitet til leie siden 2003",
+    "search": "Søk",
+    "readmore": "Les mer",
+    "home":{
+        "overview": {
+            "title1": "Sjekk ut den splitter nye Challenger X250",
+            "description1": "Smidigheten til en varebil og komforten til en bobil. Det beste fra begge verdenene. Tidligere måtte du velge mellom en varebil og en bobil, men med X-serien har Challenger skapt en mellomkategori, som kombinerer det beste fra to verdener.",
+            "title2": "Sjekk ut den splitter nye Challenger X250",
+            "description2": "Smidigheten til en varebil og komforten til en bobil. Det beste fra begge verdenene. Tidligere måtte du velge mellom en varebil og en bobil, men med X-serien har Challenger skapt en mellomkategori, som kombinerer det beste fra to verdener."
+        },
+        "details": {
+            "title": "Ditt neste eventyr venter på hentestedet",
+            "pickup": "Våre hentesteder"
+        },
+        "tips": {
+            "title": "motorhome.no",
+            "vacations": "Få mest mulig ut av bobilferiene dine",
+            "information": "Informasjon og tips",
+            "silence": "Våkn opp og lytt til lyden av stillhet"
+        }
+    },
+    "result": {
+        "title": "Disse bobilene venter på ditt neste eventyr"
+    },
+    "order": {
+        "booking": {
+            "title": "Flott, nå kan du fullføre bestillingen",
+            "total_price": "Total pris",
+            "persons": "Personer:",
+            "price_per_night": "Pris per natt:",
+            "night": "Natt:",
+            "addtionals": "Tillegg:",
+            "pickup_point": "Hentepunkt:",
+            "model": "Modell:",
+            "check_in_out": "Innsjekking og utsjekking",
+            "yes": "Ja, jeg har lest betingelsene.",
+            "read_here": "Les våre betingelser her",
+            "complete_order": "Fullfør bestilling",
+            "summary": "Sammendrag",
+            "summary_detail": "det er ikke for sent å legge til ekstra tillegg",
+            "required": "Antall personer (påkrevd)",
+            "included": "Inkluderte tjenester",
+            "price": "Pris",
+            "total": "Total",
+            "additional": "Trenger tilleggsutstyr?",
+            "lets_go": "Bra valg! Finn datoer!",
+            "book_journey": "Bestill reisen din",
+            "confirm_order": "Bekreft ordre",
+            "book": "Bestill"
+        }
+    }, 
+    "pickup": {
+        "label":
+        {
+            "title": "Velg hentested"
+        } 
+    },
+    "motorhome": {
+        "specs":
+        {
+            "pretext": "Praktisk og med god plass",
+            "seats": "seter",
+            "beds": "senger",
+            "class": "klasse",
+            "from": "Fra",
+            "next": "Neste"
+        },
+        "results":
+        {
+            "check": "Sjekk tilgjengelighet",
+            "about": "Om denne modellen",
+            "book": "Bestill",
+            "sorry": "Beklager, ikke tilgjengelig",
+            "another": "Velg en annen modell, velg en annen lokasjon eller en annen tidsperiode."
+        } 
+    },
+    "noavailable": {
+        "noavail": "Dette produktet er ikke tilgjengelig i valgte tidsrom"
+    }
+}
